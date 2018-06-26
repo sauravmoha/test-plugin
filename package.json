@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/sauravmoha/test-plugin.git"
   },
-  "author": "sourav.m",
+  "author": "sourav.m <sauravmoha@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sauravmoha/test-plugin/issues"
